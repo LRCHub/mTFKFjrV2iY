@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "君がいた夏",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T06:03:44.201915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がいた夏",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/01_君がいた夏_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "H・A・N・A・B・I 〜君がいた夏〜",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/02_H・A・N・A・B・I_〜君がいた夏〜_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "H.A.N.A.B.I ~君がいた夏~",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/03_H.A.N.A.B.I_~君がいた夏~_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "H・A・N・A・B・I 〜君がいた夏〜",
+      "artist": "ZONE",
+      "has_synced": false,
+      "path": "select/04_H・A・N・A・B・I_〜君がいた夏〜_ZONE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君がいた夏",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_君がいた夏_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "H・A・N・A・B・I ~君がいた夏~",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/06_H・A・N・A・B・I_~君がいた夏~_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君がいた夏",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/07_君がいた夏_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君がいた夏",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/08_君がいた夏_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "H・A・N・A・B・I 〜君がいた夏〜",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/09_H・A・N・A・B・I_〜君がいた夏〜_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君がいた夏",
+      "artist": "Mr.Children 1992-1995",
+      "has_synced": true,
+      "path": "select/10_君がいた夏_Mr.Children_1992-1995.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "H・A・N・A・B・I ～君がいた夏～",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/11_H・A・N・A・B・I_~君がいた夏~_ZONE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がいた夏",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_君がいた夏_Mr.Children.txt"
+    }
+  ]
+}
